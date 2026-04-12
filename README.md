@@ -18,12 +18,16 @@ Kotlin
 Jetpack Compose
 Material3
 Android Studio
+
+
 Current Progress (Week 4)
 App navigation fully working
 UI improved with themed design
 Expanded product lists
 All build errors resolved
 GitHub repository updated
+
+
 Future Plans
 Add images for each product
 Add shopping cart system
